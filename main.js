@@ -97,7 +97,7 @@ table = table +`<tr>
 <td>${i+1}</td>
 <td>${dataPro[i].title}</td>
 <td>${dataPro[i].price}</td>
-<td>${dataPro[i].texes}}</td>
+<td>${dataPro[i].texes}</td>
 <td>${dataPro[i].ads}</td>
 <td>${dataPro[i].discount}</td>
 <td>${dataPro[i].total}</td>
